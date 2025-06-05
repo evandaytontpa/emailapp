@@ -6,7 +6,7 @@
 
 ## ✅ How to Use
 
-1. [Download the DMG] from the latest release tab Folder.
+1. [Download the .DMG] from the latest release tab Folder. (release 1.1)
 2. Double-click to **mount** the disk image.
 3. Drag `EmailMaker.app` into your Applications folder.
 4. Open the app from Applications.
