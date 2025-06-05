@@ -10,9 +10,11 @@
 2. Double-click to **unzip** the file.
 3. Double-click `EmailMaker.app` to open the app.
 
-> ⚠️ **First time opening?**  
-> macOS might block it.  
-> Just right-click → click **Open** → then click **Open** again.
+> ⚠️ **If macOS blocks the app:**  
+> Right-click the `.app` → click **Open** → then click **Open** again.
+
+> 🚫 **If the app won't open at all:**  
+> Go to **System Settings** → **Privacy & Security** → scroll to the bottom and click **“Open Anyway”** next to EmailMaker.
 
 ---
 
