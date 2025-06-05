@@ -25,7 +25,7 @@
 - 🔤 Auto-generates Proxima Nova text graphics  
 - 🧩 Live HTML email preview  
 - 🎨 TPA branding + dark mode compatibility  
-- ☁️ Easy export for HubSpot and more  
+- ☁️ Easy export to Evans PC and more  
 
 ---
 
