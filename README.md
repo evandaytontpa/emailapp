@@ -4,12 +4,17 @@
 
 ---
 
-## ✅ How to Use
+## ✅ How to Open the App
 
-1. [Download the `.DMG`](#) from the latest release folder (e.g. `releases/EmailMaker_v1.1/`).
-2. Double-click to **mount** the disk image.
-3. Drag `EmailMaker.app` into your **Applications** folder.
-4. Open the app from **Applications**.
+1. Click the green **Code** button at the top of this page  
+2. Click **“Download ZIP”**  
+3. Open the ZIP file and double-click the folder inside  
+4. Open the folder called `release 1.1` (or whatever version is latest)  
+5. Double-click the `.dmg` file  
+6. Drag `EmailMaker.app` into your **Applications** folder  
+7. Open the app from Applications
+
+---
 
 > ⚠️ **If macOS blocks the app:**  
 > Right-click the `.app` → click **Open** → then click **Open** again.
