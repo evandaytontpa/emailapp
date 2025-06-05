@@ -6,9 +6,10 @@
 
 ## ✅ How to Use
 
-1. [Download the ZIP](#) from the latest release tab.
-2. Double-click to **unzip** the file.
-3. Double-click `EmailMaker.app` to open the app.
+1. [Download the DMG](#) from the latest release tab Folder.
+2. Double-click to **mount** the disk image.
+3. Drag `EmailMaker.app` into your Applications folder.
+4. Open the app from Applications.
 
 > ⚠️ **If macOS blocks the app:**  
 > Right-click the `.app` → click **Open** → then click **Open** again.
@@ -20,11 +21,11 @@
 
 ## ✨ Features
 
-- 🖼️ Drag-and-drop image uploads
-- 🔤 Auto-generates Proxima Nova text graphics
-- 🧩 Live HTML email preview
-- 🎨 TPA branding + dark mode compatibility
-- ☁️ Easy export for HubSpot and more
+- 🖼️ Drag-and-drop image uploads  
+- 🔤 Auto-generates Proxima Nova text graphics  
+- 🧩 Live HTML email preview  
+- 🎨 TPA branding + dark mode compatibility  
+- ☁️ Easy export for HubSpot and more  
 
 ---
 
@@ -35,40 +36,40 @@ We're actively improving EmailMaker based on how TPA staff use it day to day.
 ### Coming Soon:
 
 - 🧠 **Smart Style Recognition**  
-  Automatically detect bold, italic, underline, and link styles when pasting stylized text (e.g. from ChatGPT or Google Docs).
+  Automatically detect bold, italic, underline, and link styles when pasting stylized text (e.g. from ChatGPT or Google Docs)
 
 - 🅰️ **Text-Only Sections**  
-  Add clean, formatted title and paragraph sections without any image or button. Great for intros or updates.
+  Add clean, formatted title and paragraph sections without any image or button. Great for intros or updates
 
 - ✋ **Drag & Move Email Blocks**  
-  Visually reorder graphic/button/text sections with a simple drag-and-drop UI.
+  Visually reorder graphic/button/text sections with a simple drag-and-drop UI
 
 - 🌈 **Emoji Support**  
-  Native rendering for emojis in headlines and body text — no more manual PNG workarounds.
+  Native rendering for emojis in headlines and body text — no more manual PNG workarounds
 
 - 🅱️ **Font Weight Options**  
-  Select from Proxima Nova weights like Bold, Black, Semibold, etc., or auto-detect them from pasted text.
+  Select from Proxima Nova weights like Bold, Black, Semibold, etc., or auto-detect them from pasted text
 
 - 📄 **One-Click Duplicate Sections**  
-  Instantly clone graphic/button blocks with links, instead of rebuilding them manually.
+  Instantly clone graphic/button blocks with links, instead of rebuilding them manually
 
 - 🔍 **Template Search & Filtering**  
-  Add search or tag-based sorting to quickly find templates by type, date, or use-case.
+  Add search or tag-based sorting to quickly find templates by type, date, or use-case
 
 - 🧾 **Saved Snippets**  
-  Create reusable callouts, disclaimers, RSVP text, and reuse them anywhere with one click.
+  Create reusable callouts, disclaimers, RSVP text, and reuse them anywhere with one click
 
 ---
 
 Want something added?  
-DM Evan or drop a note in the #email-dev Slack channel.
+DM Evan or drop a note in the `#email-dev` Slack channel.
 
 ---
 
 ## 💻 Requirements
 
 - macOS 12 or later (Intel or Apple Silicon)
-- No terminal, no installer — just unzip and open
+- No terminal, no installer — just open the DMG and run the app
 
 ---
 
