@@ -80,4 +80,4 @@ DM Evan or drop a note in the `#email-dev` Slack channel.
 
 ## 🆘 Need Help?
 
-DM the TPA email team or [open an issue](#) here on GitHub.
+Message Evan or [open an issue](#) here on GitHub.
