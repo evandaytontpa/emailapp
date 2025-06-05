@@ -28,6 +28,43 @@
 
 ---
 
+## 🚧 Future Updates (In Progress & Planned)
+
+We're actively improving EmailMaker based on how TPA staff use it day to day.
+
+### Coming Soon:
+
+- 🧠 **Smart Style Recognition**  
+  Automatically detect bold, italic, underline, and link styles when pasting stylized text (e.g. from ChatGPT or Google Docs).
+
+- 🅰️ **Text-Only Sections**  
+  Add clean, formatted title and paragraph sections without any image or button. Great for intros or updates.
+
+- ✋ **Drag & Move Email Blocks**  
+  Visually reorder graphic/button/text sections with a simple drag-and-drop UI.
+
+- 🌈 **Emoji Support**  
+  Native rendering for emojis in headlines and body text — no more manual PNG workarounds.
+
+- 🅱️ **Font Weight Options**  
+  Select from Proxima Nova weights like Bold, Black, Semibold, etc., or auto-detect them from pasted text.
+
+- 📄 **One-Click Duplicate Sections**  
+  Instantly clone graphic/button blocks with links, instead of rebuilding them manually.
+
+- 🔍 **Template Search & Filtering**  
+  Add search or tag-based sorting to quickly find templates by type, date, or use-case.
+
+- 🧾 **Saved Snippets**  
+  Create reusable callouts, disclaimers, RSVP text, and reuse them anywhere with one click.
+
+---
+
+Want something added?  
+DM Evan or drop a note in the #email-dev Slack channel.
+
+---
+
 ## 💻 Requirements
 
 - macOS 12 or later (Intel or Apple Silicon)
